@@ -1,0 +1,66 @@
+# Maven target directory
+/target/
+
+# Maven-specific files
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# Logs
+*.log
+
+# Java-related files
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled Java files
+/bin/
+/build/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE-specific files and folders
+/.vscode/
+/.idea/
+/*.iml
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iws
+/out/
+
+# Eclipse project files
+/.project
+/.classpath
+/.settings/
+/*.launch
+
+# NetBeans project files
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Gradle files (if present in a hybrid project)
+/.gradle/
+/build/
+
+# Generated files from JavaFX
+*.jfx
+*.fxml.cache
+
+# Miscellaneous
+*.lock
+*.log
